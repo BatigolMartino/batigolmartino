@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hey there! I'm an 18-year-old developer building at the intersection of code and crypto. Currently deep in the Web3 rabbit hole, turning coffee into smart contracts and ideas into decentralized applications.<br>I spend most of my time working with Solidity, JavaScript/TypeScript, and React/Next.js, building dApps that actually solve problems (or at least trying to). Whether it's experimenting with DeFi protocols, creating NFT utilities, or just tinkering with new blockchain primitives, I'm always down to build something cool. My weapon of choice? ethers.js, Hardhat, and way too many browser tabs open at once.<br>Right now, I'm focusing on building tools that make Web3 more accessible and learning everything I can about scalability solutions and cross-chain interoperability. The space moves fast, and I'm here for it.<br>Always open to collaborating on interesting projects or just geeking out about the future of decentralized tech. If you're building something cool in Web3, let's connect!
+yo, i'm a web3 dev 🔗
+18 and obsessed with building onchain. started with curiosity about blockchain, now I can't stop deploying contracts and breaking things in testnets (sometimes mainnet, oops).
+what i'm cooking with:
+
+solidity for smart contracts (still learning to write gas-efficient code, it's harder than it looks)
+typescript + react/next.js for frontends that don't look like they're from 2015
+ethers.js & wagmi for connecting all the pieces
+hardhat/foundry for testing before i rekt myself
+
+current focus: building practical dApps that people might actually use. not just another fork or ponzi. real utility stuff. also diving deep into DeFi mechanics and how protocols actually work under the hood.
+vibe: learn, build, ship, repeat. open to collabs, code reviews, or just vibing about web3. dm me if you're working on something interesting or need a dev who's hungry to contribute.
+let's make decentralized stuff that doesn't suck ⚡
 
 
 # 💻 Tech Stack:
